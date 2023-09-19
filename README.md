@@ -1,2 +1,2 @@
-# my-test
-repo-fore-test
+# My first git repo
+Hello
