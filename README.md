@@ -1,3 +1,2 @@
-# My first git repo
-Hello
-New line Hello
+# This is my training repo
+Проект был создан с целью тестирования
