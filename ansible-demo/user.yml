@@ -1,0 +1,12 @@
+---
+- name: user
+  hosts: node_2
+  tasks:
+    - name: Create user
+      vars:
+        user: "ansible"
+      user:
+        name: "{{ user }}"
+        state: present
+      debugger: always
+
